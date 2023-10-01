@@ -3,7 +3,7 @@
 **CoT 방식을 활용하여 KO-platypus2를 fine-tuning한 model**  
   
 **KoT-platypus2-7B🥮:** [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/kyujinpy/KoT-platypus2-7B)   
-**KoCoT_2000🥮:** [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/datasets/kyujinpy/KoCoT_2000)   
+**KoCoT_2000:** [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/datasets/kyujinpy/KoCoT_2000)   
 - 본 연구는 (주)마커와 (주)미디어그룹사람과숲의 오픈소스 LLM 연구 컨소시엄에서 진행되었습니다.
 
 # KO-platypus2
@@ -82,7 +82,8 @@ And, implement below code.
 | **KoT-platypus2-7B(ours)** | 0.6127 | 0.7199 | 0.7531 | 0.8381 | 
    
 # References
-[Kopen-Platypus🥮](https://huggingface.co/datasets/kyujinpy/KOpen-platypus)   
+[KoCoT_2000🥮](https://huggingface.co/datasets/kyujinpy/KoCoT_2000)   
 [KO-platypus](https://github.com/Marker-Inc-Korea/KO-Platypus)  
+[CoT-llama](https://github.com/Marker-Inc-Korea/CoT-llama2)  
 [Platypus](https://github.com/arielnlee/Platypus)  
 [ko-lm-evaluation-harness](https://github.com/Beomi/ko-lm-evaluation-harness)   

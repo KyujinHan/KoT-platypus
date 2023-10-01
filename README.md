@@ -1,5 +1,5 @@
 # KoT-platypus
-![KO-platypus](./kot-platypus.png)
+![KO-platypus](./KoT-platypus2.png)
 **CoT 방식을 활용하여 KO-platypus2를 fine-tuning한 model**  
   
 **KoT-platypus2-7B🥮:** [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/kyujinpy/KoT-platypus2-7B)   
